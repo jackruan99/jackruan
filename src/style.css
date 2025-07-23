@@ -83,7 +83,6 @@ header p {
 }
 
 header img {
-  position: ;
   max-height: 300px;    /* control image size */
   width: auto;
 }
